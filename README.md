@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Saxena </h1>
-<h3 align="center">A passionate Frontend and Backend developer. Currently persuing Bachelors in C.S.E. from Ajay Kumar Garg Engineering College.</h3>
+<h3 align="center">A passionate Frontend and Backend developer. Currently persuing Bachelors in CS from Ajay Kumar Garg Engineering College.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsaxena7&label=Profile%20views&color=0e75b6&style=flat" alt="harshsaxena7" /> </p>
 
